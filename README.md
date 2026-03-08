@@ -1,1 +1,1 @@
-# HTML-quick-styler
+# Doc-Genie
